@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Xinyi Wang",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "wangxinyi0028@igsnrr.ac.cn",
+    "phone": "+86 18037572692",
+    "url": "https://XinyiWang0616.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "China",
       "region": "California"
     },
     "profiles": [
