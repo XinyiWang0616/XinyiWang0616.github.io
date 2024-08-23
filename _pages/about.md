@@ -6,7 +6,7 @@ subtitle: <a href='http://english.igsnrr.cas.cn/'>IGSNRR</a>. CAS.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: MyPhoto.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: wangxinyi0028@igsnrr.ac.cn</p>
