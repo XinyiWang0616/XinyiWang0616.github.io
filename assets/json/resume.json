@@ -92,23 +92,5 @@
       "fluency": "IELTS: 7",
       "icon": ""
     }
-  ],
-  "hobbies": [
-    {
-      "name": "Painting",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Badminton",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Running",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Baking",
-      "icon": "fa-solid fa-tag"
-    }
   ]
 }
