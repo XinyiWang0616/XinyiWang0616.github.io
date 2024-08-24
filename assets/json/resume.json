@@ -14,7 +14,7 @@
       "url": "http://english.igsnrr.cas.cn/",
       "startDate": "2022-09",
       "endDate": "2025-06",
-      "courses": ["Artificial Intelligence","Terrestrial Carbon Cycle","Environemntal Remote Sensing Monitoring","Data Assimilation"]
+      "courses": ["Artificial Intelligence", "Terrestrial Carbon Cycle", "Environemntal Remote Sensing Monitoring","Data Assimilation"]
     },
     {
       "institution": "Zhengzhou University",
@@ -23,7 +23,7 @@
       "url": "http://english.zzu.edu.cn/",
       "startDate": "2018-09",
       "endDate": "2022-06",
-      "courses": ["Ecological Safety Pattern","Changing Landscape","Remote sensing for Monitoring Land Use Change"]
+      "courses": ["Ecological Safety Pattern", "Changing Landscape", "Remote sensing for Monitoring Land Use Change"]
     }
   ],
   "projects": [
@@ -48,21 +48,21 @@
       "date": "2022-06",
       "awarder": "Zhengzhou University",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind."
     },
     {
       "title": "Merit Student of Zhengzhou University",
       "date": "2022-12",
       "awarder": "Zhengzhou University",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind."
     },
     {
       "title": "First-Class Scholarship for Outstanding Students of Zhengzhou University",
       "date": "2022-11",
       "awarder": "Zhengzhou University",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind."
     }
   ],
   "skills": [
@@ -96,19 +96,19 @@
   "hobbies": [
     {
       "name": "Painting",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Badminton",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Running",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Baking",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-tag"
     }
   ]
 }
