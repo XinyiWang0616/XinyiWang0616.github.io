@@ -3,17 +3,23 @@
   contents:
     - name: Name
       value: Xinyi Wang
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Label
+      value: Ecological Remote Sensing, AI
+    - name: Email
+      value: wangxinyi0028@igsnrr.ac.cn
+    - name: Phone
+      value: +86-18037572692
+    - name: Url
+      value: https://XinyiWang0616.github.io/
+    - name: Research Interests
+      value: Regional ecological remote sensing monitoring and data assimilation using artificial intelligence; Simulation of carbon and water fluxes; Changing landscapes
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master
+      institution: IGSNRR, University of Chinese Academy of Sciences
+      year: 2022.09 - 2025.06
       description:
         - Description 1.
         - Description 2.
@@ -23,12 +29,12 @@
             - Sub-description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      year: 2018.09 - 2022.06
       description:
         - Description 1.
         - Description 2.
 
-- title: Experience
+- title: Awards
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
