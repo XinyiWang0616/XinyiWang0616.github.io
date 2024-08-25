@@ -8,7 +8,7 @@ categories: sample-posts
 typograms: true
 ---
 
-I enjoy knitting, especially sewing clothes for dolls, which somewhat fulfills my dream of becoming a fashion designer. Painting and exercising also provide relaxation in my busy life.
+I enjoy knitting, especially sewing clothes for dolls, which somewhat fulfills my dream of becoming a fashion designer. Painting and exercising also provide relaxation in my busy life. Additionally, visiting art galleries is one of my favorite activities.
 
 ````markdown
 ```typograms
