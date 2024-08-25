@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some publicity on the school's public website
-date: 20243-04-28 15:06:00
+date: 2022-06-01 15:06:00
 description: Me in front of public
 tags: formatting citation
 categories: sample-posts
