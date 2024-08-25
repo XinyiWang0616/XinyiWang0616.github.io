@@ -1,14 +1,14 @@
 ---
 layout: post
-title: a post with typograms
-date: 2024-04-29 23:36:10
-description: this is what included typograms code could look like
+title: My hobbies
+date: 2024-03-26 23:36:10
+description: Knitting, Painting and Running
 tags: formatting diagrams
 categories: sample-posts
 typograms: true
 ---
 
-This is an example post with some [typograms](https://github.com/google/typograms/) code.
+I enjoy knitting, especially sewing clothes for dolls, which somewhat fulfills my dream of becoming a fashion designer. Painting and exercising also provide relaxation in my busy life.
 
 ````markdown
 ```typograms
