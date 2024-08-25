@@ -8,7 +8,7 @@ categories: sample-posts
 pseudocode: true
 ---
 
-I enjoy knitting, especially sewing clothes for dolls, which somewhat fulfills my dream of becoming a fashion designer. Painting and exercising also provide relaxation in my busy life.
+I enjoy knitting, especially sewing clothes for dolls, which somewhat fulfills my dream of becoming a fashion designer. Painting and sports also provide relaxation in my busy life.
 
 ````markdown
 ```pseudocode
