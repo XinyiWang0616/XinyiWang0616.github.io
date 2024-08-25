@@ -7,8 +7,8 @@ tags: formatting images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
 images:
-  compare: true
-  slider: true
+  compare: false
+  slider: false
 ---
 
 This is an example post with advanced image components.
