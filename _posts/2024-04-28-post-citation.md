@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post that can be cited
+title: My hobbies
 date: 20243-04-28 15:06:00
-description: this is what a post that can be cited looks like
+description: I enjoy knitting, especially sewing clothes for dolls, which somewhat fulfills my dream of becoming a fashion designer. Painting and exercising also provide relaxation in my busy life.
 tags: formatting citation
 categories: sample-posts
 citation: true
