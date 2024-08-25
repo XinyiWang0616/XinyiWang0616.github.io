@@ -1,8 +1,8 @@
 ---
 layout: post
-title: My hobbies
+title: Some publicity on the school's public website
 date: 20243-04-28 15:06:00
-description: I enjoy knitting, especially sewing clothes for dolls, which somewhat fulfills my dream of becoming a fashion designer. Painting and exercising also provide relaxation in my busy life.
+description: Me in front of public
 tags: formatting citation
 categories: sample-posts
 citation: true
