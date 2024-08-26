@@ -188,7 +188,7 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
+  Awards:
     defaults:
       layout: post
     output: true
