@@ -5,7 +5,7 @@ date: 2022-06-01 15:06:00
 description: Work hard,play hard!
 tags: formatting citation
 categories: sample-posts
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/happy.jpg
 ---
 
 <div class="row mt-3">
