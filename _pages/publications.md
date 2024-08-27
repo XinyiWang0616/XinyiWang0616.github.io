@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: academic papers
 description: On my way to a professional researcher.
 nav: true
 nav_order: 2
