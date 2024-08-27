@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding joy in scientific research.
-date: 2022-06-01 15:06:00
+date: 2024-06-01 15:06:00
 description: Work hard, play hard!
 tags: formatting images
 categories: sample-posts
