@@ -86,11 +86,9 @@
       ]
     }
   ],
-  "languages": [
-    {
+  "languages": {
       "language": "English",
       "fluency": "IELTS: 7",
       "icon": ""
     }
-  ]
 }
