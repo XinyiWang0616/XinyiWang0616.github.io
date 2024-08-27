@@ -8,7 +8,6 @@ categories: sample-posts
 thumbnail: assets/img/9.jpg
 ---
 
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/bird.jpg" class="img-fluid rounded z-depth-1" %}
@@ -26,5 +25,3 @@ thumbnail: assets/img/9.jpg
         {% include figure.liquid loading="eager" path="assets/img/bad2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-I really enjoy running and badminton. I love all things beautiful, including delicious food, scenic views, and art!
