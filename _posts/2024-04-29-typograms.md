@@ -5,7 +5,7 @@ date: 2024-03-26 23:36:10
 description: Knitting, Painting and Running
 tags: formatting diagrams
 categories: sample-posts
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/cat.jpg
 ---
 
 I enjoy knitting, especially sewing clothes for dolls, which somewhat fulfills my dream of becoming a fashion designer. Painting and exercising also provide relaxation in my busy life. Additionally, visiting art galleries is one of my favorite activities.
