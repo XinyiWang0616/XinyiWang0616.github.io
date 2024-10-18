@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Xinyi Wang",
-    "label": "Exploring the fusion of artificial intelligence and remote sensing in terrestrial ecosystem carbon cycling.",
+    "label": "Interactions of air-water-ecosystem; Integration of artificial intelligence and ecosystem models; Ecological remote sensing",
     "email": "wangxinyi0028@igsnrr.ac.cn",
     "phone": "+86-18037572692",
     "url": "https://XinyiWang0616.github.io/"
@@ -9,12 +9,12 @@
   "education": [
     {
       "institution": "IGSNRR, University of Chinese Academy of Sciences",
-      "area": "supervised by Prof. Fenzhen Su and Assoc Prof. Fengqin Yan",
+      "area": "supervised by Prof. Fenzhen Su and Assoc. Prof. Fengqin Yan",
       "studyType": "Master",
       "url": "http://english.igsnrr.cas.cn/",
       "startDate": "2022-09",
       "endDate": "2025-06",
-      "courses": ["Artificial Intelligence", "Terrestrial Carbon Cycle", "Environemntal Remote Sensing Monitoring", "Data Assimilation"]
+      "courses": ["Mechanism of air-water-carbon interactions", "Ecological remote sensing", "Ecosystem resilience", "Integration of artificial intelligence and ecosystem models"]
     },
     {
       "institution": "Zhengzhou University",
@@ -23,21 +23,21 @@
       "url": "http://english.zzu.edu.cn/",
       "startDate": "2018-09",
       "endDate": "2022-06",
-      "courses": ["Ecological Safety Pattern", "Changing Landscape", "Remote sensing for Monitoring Land Use Change"]
+      "courses": ["Ecosystem services and landscape changes", "Land use changes"]
     }
   ],
   "projects": [
     {
       "name": "Inversion of Key Process Parameters in Regional Ecosystems",
       "summary": "Develop high-resolution ecological remote sensing inversion models and reliable carbon flux datasets.",
-      "highlights": ["Artificial Intelligence", "Photosynthesis of Vegetation", "Ecological Remote Sensing Estimation"],
+      "highlights": ["Interactions of air-water-carbon", "Quantifying photosynthesis dynamics", "Deep networks model"],
       "startDate": "2023-12",
       "endDate": "2027-11"
     },
     {
       "name": "Optimization and Regulation of Sea-Land Scenarios in the Guangdong-Hong Kong-Macao Greater Bay Area under High-Intensity Perturbations",
       "summary": "Analyze natural and human attribute factors affecting the ecological security of the Greater Bay Area, and establish spatial scenario optimization models for the future development of coastal cities.",
-      "highlights": ["Ecological Securityand Changing Landscape", "Carbon Storage", "Interaction of Natural and Human Factors"],
+      "highlights": ["Ecosystem responses to external disturbances", "Carbon Storage", "Impacts of huaman activities to ecosystems"],
       "startDate": "2021-01",
       "endDate": "2023-06"
     }
@@ -68,7 +68,8 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
-        "Matlab"
+        "Matlab",
+        "Deep learning"
       ]
     },
     {
@@ -86,7 +87,7 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "IELTS: 7",
+      "fluency": "IELTS: 7 (Listening: 7.0, Reading: 8.5)",
       "icon": ""
     }
   ]
